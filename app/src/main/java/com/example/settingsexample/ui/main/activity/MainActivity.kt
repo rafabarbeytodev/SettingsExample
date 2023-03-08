@@ -1,4 +1,4 @@
-package com.example.settingsexample.ui.activity
+package com.example.settingsexample.ui.main.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatDelegate.MODE_NIGHT_NO
 import androidx.appcompat.app.AppCompatDelegate.MODE_NIGHT_YES
 import com.example.settingsexample.data.SettingsModel
 import com.example.settingsexample.databinding.ActivityMainBinding
-import com.example.settingsexample.ui.viewmodel.MainViewModel
+import com.example.settingsexample.ui.main.viewmodel.MainViewModel
 import com.example.settingsexample.utils.KEY_BLUETOOTH
 import com.example.settingsexample.utils.KEY_DARK_MODE
 import com.example.settingsexample.utils.KEY_VIBRATION
